@@ -1,4 +1,4 @@
-#To run the program, on Window:
+# To run the program, on Window:
 
 1. Run the command: javac -cp .;jopt-simple-5.0.2.jar *.java
 2. Run the command: java -cp .;jopt-simple-5.0.2.jar RmitCovidModelling.java <yourChoice> (adjlist/adjmat/incmat)
